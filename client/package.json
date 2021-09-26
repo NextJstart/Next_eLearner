@@ -1,0 +1,33 @@
+{
+	"name": "elearner",
+	"version": "1.0.0",
+	"description": "next.js, React, Node project",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NextJstart/Next_eLearner.git"
+	},
+	"keywords": [
+		"Next.js",
+		"React",
+		"Node",
+		"MERN"
+	],
+	"author": "TanyaRan",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/NextJstart/Next_eLearner/issues"
+	},
+	"homepage": "https://github.com/NextJstart/Next_eLearner#readme",
+	"dependencies": {
+		"next": "^11.1.2",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2"
+	}
+}
